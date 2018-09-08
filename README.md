@@ -1,5 +1,8 @@
 # Creating-a-Stateless-Functional-Component-in-ReactJS
 
 
-npm install
-npm start 
+Install Node Dependency
+### `npm install`
+
+Run Project
+### `npm start`
